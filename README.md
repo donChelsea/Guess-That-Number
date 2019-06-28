@@ -1,4 +1,4 @@
-![alt text](https://files.realpython.com/media/python-logo.8eb72ea6927b.png)
+![alt text](https://s3.amazonaws.com/fllcasts/content_pictures/pictures/000/001/659/0d763915b31098db87bd09ccb93fcd62005136a4Python.png?1523265716)
 
 # Guess-That-Number
 Guess a random integer from the command line. Written in python 
